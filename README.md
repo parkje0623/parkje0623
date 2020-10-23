@@ -5,6 +5,8 @@ My name is Jieung Park. I currently live in British Columbia, Canada.
 - :blush: I like listening to music and playing video games  
 - :globe_with_meridians: Visit my [portfolio website](https://jieungportfolio.herokuapp.com/mainpage.html)  
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api)
+
 <!--
 **parkje0623/parkje0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
