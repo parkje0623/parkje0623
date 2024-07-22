@@ -1,5 +1,5 @@
 ### Hi there 👋  
-My name is Jieung Park. I currently live in Langley, British Columbia, Canada.  
+My name is Jieung Park. I currently live in Surrey, British Columbia, Canada.  
 - :school: Graduated studying Computing Science at Simon Fraser University  
 - :running: I love watching and playing sports (soccer, basketball)  
 - :blush: I like listening to music and playing video games  
